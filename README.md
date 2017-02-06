@@ -1,8 +1,6 @@
 # Drupal PHP 5.6/7.x
 
-[![Build Status](https://travis-ci.org/netdream/drupal-php.svg?branch=master)](https://travis-ci.org/wodby/drupal-php)
-[![Docker Pulls](https://img.shields.io/docker/pulls/netdream/drupal-php.svg)](https://hub.docker.com/r/wodby/drupal-php)
-[![Docker Stars](https://img.shields.io/docker/stars/netdream/drupal-php.svg)](https://hub.docker.com/r/wodby/drupal-php)
+[![Build Status](https://travis-ci.org/netdream/drupal-php.svg?branch=master)](https://travis-ci.org/netdream/drupal-php)
 
 # Supported tags and respective `Dockerfile` links
 
