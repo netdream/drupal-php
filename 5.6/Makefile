@@ -1,6 +1,6 @@
 -include env_make
 
-NS = wodby
+NS = netdream
 VERSION ?= 5.6
 
 REPO = drupal-php

@@ -1,6 +1,7 @@
 FROM alpine:3.5
 MAINTAINER Serge Skripchuk <tarzanych@gmail.com>
 MAINTAINER Wodby <admin@wodby.com>
+MAINTAINER Fabrizio Sala <fsala@netdream.it>
 
 # Install packages
 RUN echo 'http://dl-cdn.alpinelinux.org/alpine/3.5/testing' >> /etc/apk/repositories && \

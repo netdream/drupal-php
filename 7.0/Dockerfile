@@ -1,5 +1,6 @@
 FROM alpine:3.5
 MAINTAINER Wodby <admin@wodby.com>
+MAINTAINER Fabrizio Sala <fsala@netdream.it>
 
 # Install packages
 RUN echo 'http://dl-cdn.alpinelinux.org/alpine/edge/testing' >> /etc/apk/repositories && \
